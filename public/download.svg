@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <text x="10" y="40" font-family="Segoe UI, sans-serif" font-size="30" fill="#0070f3" font-weight="700">Smart</text>
+  <text x="105" y="40" font-family="Segoe UI, sans-serif" font-size="30" fill="#111" font-weight="700">Readme</text>
+  <circle cx="175" cy="25" r="8" fill="#0070f3"></circle>
+  <circle cx="175" cy="25" r="4" fill="white"></circle>
+</svg>
